@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class demo2.java {
 
     public static void main(String[] args) {
 
